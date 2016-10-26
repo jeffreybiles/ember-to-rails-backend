@@ -1,2 +1,2 @@
-class Monster < ApplicationRecord
+class Monster < ActiveRecord::Base
 end
